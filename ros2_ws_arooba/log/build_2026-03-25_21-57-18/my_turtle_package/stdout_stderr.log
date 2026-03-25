@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/my_turtle_package/my_turtle_package.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_turtle_package/my_turtle_package.egg-info/dependency_links.txt
+writing entry points to ../../build/my_turtle_package/my_turtle_package.egg-info/entry_points.txt
+writing requirements to ../../build/my_turtle_package/my_turtle_package.egg-info/requires.txt
+writing top-level names to ../../build/my_turtle_package/my_turtle_package.egg-info/top_level.txt
+reading manifest file '../../build/my_turtle_package/my_turtle_package.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_turtle_package/my_turtle_package.egg-info/SOURCES.txt'
+running build
+running build_py
+copying my_turtle_package/move_turtle.py -> /home/arooba/ros2_ws_arooba/build/my_turtle_package/build/lib/my_turtle_package
+running install
+running install_lib
+copying /home/arooba/ros2_ws_arooba/build/my_turtle_package/build/lib/my_turtle_package/move_turtle.py -> /home/arooba/ros2_ws_arooba/install/my_turtle_package/lib/python3.10/site-packages/my_turtle_package
+byte-compiling /home/arooba/ros2_ws_arooba/install/my_turtle_package/lib/python3.10/site-packages/my_turtle_package/move_turtle.py to move_turtle.cpython-310.pyc
+Sorry: IndentationError: unindent does not match any outer indentation level (move_turtle.py, line 22)
+running install_data
+running install_egg_info
+removing '/home/arooba/ros2_ws_arooba/install/my_turtle_package/lib/python3.10/site-packages/my_turtle_package-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/my_turtle_package/my_turtle_package.egg-info to /home/arooba/ros2_ws_arooba/install/my_turtle_package/lib/python3.10/site-packages/my_turtle_package-0.0.0-py3.10.egg-info
+running install_scripts
+Installing move_turtle script to /home/arooba/ros2_ws_arooba/install/my_turtle_package/lib/my_turtle_package
+writing list of installed files to '/home/arooba/ros2_ws_arooba/build/my_turtle_package/install.log'

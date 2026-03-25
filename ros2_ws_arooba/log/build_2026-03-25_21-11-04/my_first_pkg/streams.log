@@ -1,0 +1,37 @@
+[0.862s] Invoking command in '/home/arooba/ros2_ws_arooba/src/my_first_pkg': PYTHONPATH=/home/arooba/ros2_ws_arooba/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arooba/ros2_ws_arooba/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_pkg build --build-base /home/arooba/ros2_ws_arooba/build/my_first_pkg/build install --record /home/arooba/ros2_ws_arooba/build/my_first_pkg/install.log --single-version-externally-managed install_data
+[1.128s] running egg_info
+[1.130s] creating ../../build/my_first_pkg/my_first_pkg.egg-info
+[1.130s] writing ../../build/my_first_pkg/my_first_pkg.egg-info/PKG-INFO
+[1.131s] writing dependency_links to ../../build/my_first_pkg/my_first_pkg.egg-info/dependency_links.txt
+[1.131s] writing entry points to ../../build/my_first_pkg/my_first_pkg.egg-info/entry_points.txt
+[1.131s] writing requirements to ../../build/my_first_pkg/my_first_pkg.egg-info/requires.txt
+[1.132s] writing top-level names to ../../build/my_first_pkg/my_first_pkg.egg-info/top_level.txt
+[1.132s] writing manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[1.135s] reading manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[1.137s] writing manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[1.137s] running build
+[1.137s] running build_py
+[1.137s] creating /home/arooba/ros2_ws_arooba/build/my_first_pkg/build
+[1.138s] creating /home/arooba/ros2_ws_arooba/build/my_first_pkg/build/lib
+[1.138s] creating /home/arooba/ros2_ws_arooba/build/my_first_pkg/build/lib/my_first_pkg
+[1.138s] copying my_first_pkg/__init__.py -> /home/arooba/ros2_ws_arooba/build/my_first_pkg/build/lib/my_first_pkg
+[1.138s] copying my_first_pkg/simple_node.py -> /home/arooba/ros2_ws_arooba/build/my_first_pkg/build/lib/my_first_pkg
+[1.138s] running install
+[1.138s] running install_lib
+[1.139s] creating /home/arooba/ros2_ws_arooba/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg
+[1.139s] copying /home/arooba/ros2_ws_arooba/build/my_first_pkg/build/lib/my_first_pkg/__init__.py -> /home/arooba/ros2_ws_arooba/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg
+[1.140s] copying /home/arooba/ros2_ws_arooba/build/my_first_pkg/build/lib/my_first_pkg/simple_node.py -> /home/arooba/ros2_ws_arooba/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg
+[1.140s] byte-compiling /home/arooba/ros2_ws_arooba/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg/__init__.py to __init__.cpython-310.pyc
+[1.141s] byte-compiling /home/arooba/ros2_ws_arooba/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg/simple_node.py to simple_node.cpython-310.pyc
+[1.141s] running install_data
+[1.141s] creating /home/arooba/ros2_ws_arooba/install/my_first_pkg/share/ament_index
+[1.142s] creating /home/arooba/ros2_ws_arooba/install/my_first_pkg/share/ament_index/resource_index
+[1.142s] creating /home/arooba/ros2_ws_arooba/install/my_first_pkg/share/ament_index/resource_index/packages
+[1.142s] copying resource/my_first_pkg -> /home/arooba/ros2_ws_arooba/install/my_first_pkg/share/ament_index/resource_index/packages
+[1.142s] copying package.xml -> /home/arooba/ros2_ws_arooba/install/my_first_pkg/share/my_first_pkg
+[1.143s] running install_egg_info
+[1.145s] Copying ../../build/my_first_pkg/my_first_pkg.egg-info to /home/arooba/ros2_ws_arooba/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg-0.0.0-py3.10.egg-info
+[1.146s] running install_scripts
+[1.172s] Installing simple_node script to /home/arooba/ros2_ws_arooba/install/my_first_pkg/lib/my_first_pkg
+[1.172s] writing list of installed files to '/home/arooba/ros2_ws_arooba/build/my_first_pkg/install.log'
+[1.214s] Invoked command in '/home/arooba/ros2_ws_arooba/src/my_first_pkg' returned '0': PYTHONPATH=/home/arooba/ros2_ws_arooba/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arooba/ros2_ws_arooba/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_pkg build --build-base /home/arooba/ros2_ws_arooba/build/my_first_pkg/build install --record /home/arooba/ros2_ws_arooba/build/my_first_pkg/install.log --single-version-externally-managed install_data
